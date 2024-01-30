@@ -1,21 +1,22 @@
 import mongoose from 'mongoose';
 import app from './app';
 import config from './config';
+import { errorLogger, logger } from './shared/logger';
 
 async function bootstrap() {
   try {
     await mongoose.connect(config.database_url as string);
-    console.log('🗂️🗂️_Database connection established_🗂️🗂️');
+    logger.info('🗂️🗂️_Database connection established_🗂️🗂️');
     app.listen(config.port, () => {
-      console.log(
+      logger.info(
         `🎯🎯 Server listening on port ${
           process.env.PORT
         },🎯🎯 url: ${`http://localhost:${config.port}/`}`,
       );
     });
   } catch (err) {
-    console.log('Failed to connect to mongodb');
-    console.log(err);
+    errorLogger.error('Failed to connect to mongodb', err);
+    // errorLogger.error(err);
   }
 }
 

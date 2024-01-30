@@ -1,0 +1,52 @@
+{"level":"info","message":"🗂️🗂️_Database connection established_🗂️🗂️"}
+{"level":"info","message":"🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/"}
+{"level":"info","message":"🗂️🗂️_Database connection established_🗂️🗂️"}
+{"level":"info","message":"🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/"}
+{"level":"info","message":"🗂️🗂️_Database connection established_🗂️🗂️"}
+{"level":"info","message":"🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/"}
+{"level":"info","message":"🗂️🗂️_Database connection established_🗂️🗂️"}
+{"level":"info","message":"🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/"}
+{
+  message: '🗂️🗂️_Database connection established_🗂️🗂️',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-01-30T17:32:57.319Z'
+}
+{
+  message: '🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-01-30T17:32:57.335Z'
+}
+{
+  message: '🗂️🗂️_Database connection established_🗂️🗂️',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-01-30T17:34:28.212Z'
+}
+{
+  message: '🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-01-30T17:34:28.226Z'
+}
+2024-01-30T17:34:42.581Z [right meow!] info: 🗂️🗂️_Database connection established_🗂️🗂️
+2024-01-30T17:34:42.590Z [right meow!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/
+ [right meow!] info: 🗂️🗂️_Database connection established_🗂️🗂️: 2024-01-30T17:35:28.868Z
+ [right meow!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/: 2024-01-30T17:35:28.877Z
+ [Yoo!!] info: 🗂️🗂️_Database connection established_🗂️🗂️: 2024-01-30T17:35:51.097Z
+ [Yoo!!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/: 2024-01-30T17:35:51.103Z
+ [Yoo!!] info: 🗂️🗂️_Database connection established_🗂️🗂️: 2024-01-30T17:36:51.533Z
+ [Yoo!!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/: 2024-01-30T17:36:51.541Z
+ [Yoo!!] info: 🗂️🗂️_Database connection established_🗂️🗂️: 23: 38: 37 
+ [Yoo!!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/: 23: 38: 37 
+ [Yoo!!] info: 🗂️🗂️_Database connection established_🗂️🗂️: 23: 38: 49 Tue Jan 30 2024 23:38:49 GMT+0600 (Bangladesh Standard Time)
+ [Yoo!!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/: 23: 38: 49 Tue Jan 30 2024 23:38:49 GMT+0600 (Bangladesh Standard Time)
+ [Yoo!!] info: 🗂️🗂️_Database connection established_🗂️🗂️: 23: 38: 58 Tue Jan 30 2024
+ [Yoo!!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/: 23: 38: 58 Tue Jan 30 2024
+ [Yoo!!] info: 🗂️🗂️_Database connection established_🗂️🗂️:23:39:6 Tue Jan 30 2024
+ [Yoo!!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/:23:39:6 Tue Jan 30 2024
+ [Yoo!!] info: 🗂️🗂️_Database connection established_🗂️🗂️ 23:39:12 Tue Jan 30 2024
+ [Yoo!!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/ 23:39:12 Tue Jan 30 2024
+23:39:40 Tue Jan 30 2024 [Yoo!!] info: 🗂️🗂️_Database connection established_🗂️🗂️ 
+23:39:40 Tue Jan 30 2024 [Yoo!!] info: 🎯🎯 Server listening on port 9000,🎯🎯 url: http://localhost:9000/ 
